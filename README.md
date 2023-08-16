@@ -1,1 +1,1 @@
-# Salon-of-beauty
+# Salon-of-beauty + status
