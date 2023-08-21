@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Салон красоты</title>
+    <link rel="stylesheet"
+          href="styles-registration.css">
+    <script src="app-registration.js" defer></script>
+</head>
+
+<body>
+<header>
+    <h1 class="heading">Салон красоты</h1>
+    <h3 class="address">Наш адрес: </h3>
+</header>
+
+<!-- container div -->
+<div class="container">
+
+    <div class="slider"></div>
+    <div class="btn">
+        <button class="login">Войти</button>
+        <button class="signup">Зарегистрироваться</button>
+    </div>
+
+    <!-- Form section that contains the
+        login and the signup form -->
+    <div class="form-section">
+
+        <!-- login form -->
+        <div class="login-box">
+            <input type="email"
+                   class="email ele"
+                   placeholder="youremail@email.com">
+            <input type="password"
+                   class="password ele"
+                   placeholder="password">
+            <button class="clkbtn" id="login-clkbtn">Войти</button>
+        </div>
+
+        <!-- signup form -->
+        <div class="signup-box">
+            <input type="text"
+                   class="name ele"
+                   placeholder="Введите ваше имя">
+            <input type="email"
+                   class="email ele"
+                   placeholder="youremail@email.com">
+            <input type="password"
+                   class="password ele"
+                   placeholder="пароль">
+            <input type="password"
+                   class="password ele"
+                   placeholder="подтвердите пароль">
+            <button class="clkbtn" id="signup-clkbtn">Зарегистрироваться</button>
+        </div>
+    </div>
+</div>
+</body>
+</html>
