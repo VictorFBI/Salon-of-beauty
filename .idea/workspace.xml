@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5dddfdd9-d03b-443c-a751-36c419c2669f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app-client-first-registration.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app-client-session.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client-first-registration.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client-session.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles-client-first-registration.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles-client-session.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app-index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app-registration.js" beforeDir="false" afterPath="$PROJECT_DIR$/app-client-login-signup.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/client-login-signup.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles-registration.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles-client-login-signup.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +85,7 @@
       <workItem from="1692197266486" duration="10238000" />
       <workItem from="1692652885239" duration="3785000" />
       <workItem from="1692709245575" duration="1713000" />
-      <workItem from="1692808088422" duration="10101000" />
+      <workItem from="1692808088422" duration="10810000" />
     </task>
     <servers />
   </component>
