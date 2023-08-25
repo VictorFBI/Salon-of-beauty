@@ -1,5 +1,3 @@
-@import url(
-"https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 
 * {
     margin: 0;
@@ -38,7 +36,7 @@ body {
 
 .slider {
     height: 60px;
-    width: 300px;
+    width: 310px;
     top: 20px;
     left: 320px;
     position: absolute;
@@ -57,4 +55,50 @@ body {
 #container button {
     padding-left: 90px;
     padding-right: 90px;
+}
+
+
+.record-list {
+    background-color: white;
+    min-width: 650px;
+    min-height: 700px;
+    overflow-y: auto;
+    position: absolute;
+    transition: all 0.5s ease-in-out;
+    right: 0;
+}
+
+.history-list {
+    background-color: white;
+    min-width: 650px;
+    min-height: 700px;
+    overflow-y: auto;
+    position: absolute;
+    transition: all 0.5s ease-in-out;
+    left: 650px;
+}
+
+.moverecordlist {
+    right: 650px;
+}
+
+.movehistorylist {
+    left: 0;
+}
+
+
+#main {
+    margin-top: 30px;
+    background-color: white;
+    box-shadow: 6px 6px 20px rgb(128, 128, 128);
+    display: flex;
+    position: relative;
+    width: 650px;
+    height: 700px;
+    overflow: hidden;
+}
+
+ul {
+    padding-left: 25px;
+    padding-top: 5px;
 }
